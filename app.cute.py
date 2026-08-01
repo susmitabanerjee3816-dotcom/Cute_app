@@ -10,7 +10,7 @@ name = st.text_input("Please Enter Your Name😊")
 
 if st.button("💖Greet Me"):
     if name.strip():
-        st.balloons
+        st.balloons()
 
 
         st.markdown(f"""
